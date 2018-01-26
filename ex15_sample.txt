@@ -1,0 +1,3 @@
+Read and write exercies file.
+First it is truncated and ask user for input.
+User input lines are written to file.
